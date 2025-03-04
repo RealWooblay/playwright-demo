@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@phantom/synpress": "^4.1.6",
     "@solana/wallet-adapter-react": "^0.15.35",
     "@solana/wallet-adapter-react-ui": "^0.9.35",
     "@solana/wallet-adapter-wallets": "^0.19.32",
